@@ -1,7 +1,7 @@
 
 # Hola
 
-###Portfolio web application made using Django and PostgreSQL
+### Portfolio web application made using Django and PostgreSQL
 
 
 ### This application has been made using:
